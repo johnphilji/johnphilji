@@ -1,9 +1,9 @@
-## 👋 Hi, I’m John Philji
+## 👋 Hey there! I’m John Philji
 
-I’m a second-year engineering student at **Fr. Conceicao Rodrigues College of Engineering (Mumbai University)** with a strong interest in **software development, app building, and problem-solving**. I enjoy learning by building real projects and experimenting with new technologies.
+I’m a second-year Engineering student at **Fr. Conceicao Rodrigues College of Engineering (FR.CRCE)** with a strong interest in **app and web development**. I enjoy building meaningful digital solutions that solve real-world problems.
 
-Currently, I’m working with **Flutter and Firebase** for mobile app development and improving my skills in **Python and C++**. I’m also preparing for **hackathons like SIH**, where I aim to build impactful, real-world solutions with my team.
+Currently, I’m exploring the **MERN stack** for scalable web applications and working with **Flutter and Firebase** for mobile app development. I actively participate in **hackathons and tech challenges**, and recently my team presented **DriveGuard**—a driver safety and vehicle security solution using fingerprint authentication—at the **Mumbai University Incubation Center**.
 
-Beyond coding, I enjoy **public speaking and storytelling in presentations**, and exploring creative tech ideas like **3D animations and interactive web experiences**. I believe in consistent learning, teamwork, and turning ideas into working products.
+Beyond tech, I’m a member of the **Rocket Club at FR.CRCE**, and I have a deep passion for **music**. I’ve completed **all eight grades in Keyboard Performance (Trinity College of London)** and enjoy freestyle playing. I also love playing **cricket**, which keeps me active and team-oriented.
 
-🚀 *Always curious. Always building.*
+🚀 Always learning, building, and blending creativity with technology.
