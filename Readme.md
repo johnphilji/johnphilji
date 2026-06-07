@@ -61,5 +61,5 @@ I have completed all 8 grades in Keyboard Performance from Trinity College Londo
 
 ## 📫 Connect With Me
 
-- GitHub: github.com/johnphilji
+- GitHub: [github.com/johnphilji](https://github.com/johnphilji)
 - LinkedIn: www.linkedin.com/in/john-philji
