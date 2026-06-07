@@ -55,12 +55,6 @@ Exploring practical AI applications, intelligent assistants, computer vision sys
 - Participating in hackathons and innovation challenges
 - Creating technology with real-world impact
 
-## 📊 GitHub Stats
-
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnphilji&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnphilji&layout=compact&theme=tokyonight)
-
 ## 🎹 Beyond Tech
 
 I have completed all 8 grades in Keyboard Performance from Trinity College London. Music has taught me creativity, discipline, and attention to detail—qualities that influence the way I approach engineering and product development.
@@ -68,4 +62,4 @@ I have completed all 8 grades in Keyboard Performance from Trinity College Londo
 ## 📫 Connect With Me
 
 - GitHub: github.com/johnphilji
-- LinkedIn: linkedin.com/in/your-linkedin
+- LinkedIn: www.linkedin.com/in/john-philji
